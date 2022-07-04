@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anoopnayak7&label=Profile%20views&color=0e75b6&style=flat" alt="anoopnayak7" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anoopnayak7" alt="anoopnayak7" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://anoopnayak.vercel.app/](https://anoopnayak.vercel.app/)
 
