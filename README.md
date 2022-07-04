@@ -15,7 +15,7 @@
 
 
 <h2 align="left">Connect with me:</h2>
-<p align="left" display="flex" justify-content="space-between">
+<p align="left" display="block" justify-content="space-between">
 <a href="https://dev.to/anoopnayak7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="anoopnayak7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anoop-nayak-5a1494170/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anoop-nayak-5a1494170/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10676689" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10676689" height="30" width="40" /></a>
