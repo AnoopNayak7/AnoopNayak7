@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anoop Nayak</h1>
 <h4 align="center">Iam Full-Stack developer ! with Over 2 years of experience with strong understanding of front-end technologies, MVC frameworks, Restful web services & database designing.
-
-Professional exposure in JavaScript technology such as ReactJS, Express JS, Node JS.</h4>
+</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anoopnayak7&label=Profile%20views&color=0e75b6&style=flat" alt="anoopnayak7" /> </p>
 
