@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anoop Nayak</h1>
 <h4 align="center">
   Overall 3years of experience as Full-stack developer working on product development, I am passionate about building robust and scalable solutions that provide value to users. My expertise spans a range of technologies, including ReactJS, NextJS, NodeJS, RabbitMQ, MQTT, and Microservices.
-<br/>
-I am committed to delivering high-quality work, and I have a keen eye for detail when it comes to UI design. I take a user-centered approach to design and work closely with product managers and designers to ensure that our products are intuitive, accessible, and aesthetically pleasing.
-<br/>
-My proficiency in ReactJS and NextJS has enabled me to build responsive and user-friendly web applications that meet the needs of our users.
-<br/>
-My expertise in NodeJS and Microservices has enabled me to build scalable and reliable back-end systems that can handle high traffic loads. I have also worked extensively with RabbitMQ and MQTT, developing efficient message brokers that can handle large volumes of data.
-<br/>
-I have also been involved in conducting UX research and user testing, gathering valuable feedback that we have used to improve the overall user experience of our products.
 </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anoopnayak7&label=Profile%20views&color=0e75b6&style=flat" alt="anoopnayak7" /> </p>
