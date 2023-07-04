@@ -4,8 +4,6 @@
 <br/>
 I am committed to delivering high-quality work, and I have a keen eye for detail when it comes to UI design. I take a user-centered approach to design and work closely with product managers and designers to ensure that our products are intuitive, accessible, and aesthetically pleasing.
 <br/>
-In my current role, I have been responsible for building microservices-based architectures using NodeJS, RabbitMQ, and MQTT. This has allowed us to build highly scalable systems that can handle large volumes of data and provide a seamless user experience.
-<br/>
 My proficiency in ReactJS and NextJS has enabled me to build responsive and user-friendly web applications that meet the needs of our users.
 <br/>
 My expertise in NodeJS and Microservices has enabled me to build scalable and reliable back-end systems that can handle high traffic loads. I have also worked extensively with RabbitMQ and MQTT, developing efficient message brokers that can handle large volumes of data.
