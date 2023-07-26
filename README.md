@@ -23,4 +23,5 @@
 <a href="https://stackoverflow.com/users/10676689" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10676689" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/anoop.nayak.796" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/anoop.nayak.796" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_toxicc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_toxicc" height="30" width="40" /></a>
+<a href="https://medium.com/@anoopnayak1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mr_toxicc" height="30" width="40" /></a>
 </p>
