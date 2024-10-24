@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anoop Nayak</h1>
 <h4 align="center">
-  4+ years of experience as Full-stack developer working on product development, I am passionate about building robust and scalable solutions that provide value to users. My expertise spans a range of technologies, including ReactJS, NextJS, NodeJS, RabbitMQ, MQTT, and Microservices.
+  4.5+ years of experience as Full-stack developer working on product development, I am passionate about building robust and scalable solutions that provide value to users. My expertise spans a range of technologies, including ReactJS, NextJS, NodeJS, RabbitMQ, MQTT, and Microservices.
 </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anoopnayak7&label=Profile%20views&color=0e75b6&style=flat" alt="anoopnayak7" /> </p>
